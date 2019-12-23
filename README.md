@@ -1,4 +1,4 @@
-# test-sass
+# hyn-vue-project
 
 ## Project setup
 ```
